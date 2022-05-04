@@ -7,5 +7,7 @@ The logic behind this tool is that, we will visit the domain as http, if it has 
 #bash script.sh domains.txt
 
 
+
+# SNAPSHOT
 ![carbon (2)](https://user-images.githubusercontent.com/76953482/166653639-5def7f6e-384c-4c5f-86f2-198ad9c531f1.png)
 
