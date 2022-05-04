@@ -4,7 +4,7 @@ It will check for the doamins inside the text file.
 The logic behind this tool is that, we will visit the domain as http, if it has response code of 301/302, then it's moved to HTTPS. If its 200 its alive but http only.
 
 # Usage
-#bash script.sh domains.txt
+### `#bash script.sh domains.txt`
 
 
 
